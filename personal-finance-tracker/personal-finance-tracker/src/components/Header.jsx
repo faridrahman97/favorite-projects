@@ -8,7 +8,7 @@ export default function Header({toggleDarkMode}) {
             <nav className="nav container">
                 <div className="application-title container">
                     <GiMoneyStack className="money-icon"/> 
-                    <h2>HELP ME SAVE</h2>
+                    <h2 className="application-heading">Cash Out</h2>
                 </div>
                 <div className="nav-menu">
                     <ul className="nav-list">
